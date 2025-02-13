@@ -1,6 +1,6 @@
-# **Data Analysis Study Repository**
+# **Study Repository**
 
-> 데이터 분석 학습 기록하는 공간입니다.
+> 개인 공부 학습 기록하는 공간입니다.
 > 
 > 알고리즘, 쿼리 작성, 데이터 시각화, 머신러닝 등 공부 기록.
 
