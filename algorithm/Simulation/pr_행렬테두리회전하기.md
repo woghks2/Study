@@ -1,6 +1,6 @@
 # **\[파이썬\] 프로그래머스 : 행렬 테두리 회전하기 (레벨2)**
 
-- https://https://school.programmers.co.kr/learn/courses/30/lessons/77485
+- https://school.programmers.co.kr/learn/courses/30/lessons/77485
 
 <br>
 

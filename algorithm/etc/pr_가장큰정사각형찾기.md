@@ -1,7 +1,8 @@
 # **\[파이썬\] 프로그래머스 : 가장 큰 정사각형 찾기 (레벨2)**
 
-- https://https://school.programmers.co.kr/learn/courses/30/lessons/12905
-  <br>
+- https://school.programmers.co.kr/learn/courses/30/lessons/12905
+
+<br>
 
 ---
 

@@ -1,6 +1,6 @@
 # **\[파이썬\] 프로그래머스 : 마법의 엘리베이터 (레벨2)**
 
-- https://https://school.programmers.co.kr/learn/courses/30/lessons/148653
+- https://school.programmers.co.kr/learn/courses/30/lessons/148653
 
 <br>
 

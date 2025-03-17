@@ -1,7 +1,8 @@
 # **\[파이썬\] 프로그래머스 : 수식 최대화 (레벨2)**
 
-- https://https://school.programmers.co.kr/learn/courses/30/lessons/67257
-  <br>
+- https://school.programmers.co.kr/learn/courses/30/lessons/67257
+
+<br>
 
 ---
 
