@@ -1,6 +1,6 @@
 # [SQL] 프로그래머스 : 대장균의 크기에 따라 분류하기 1 (레벨2)
 
-- [[특정 세대의 대장균 찾기]](https://school.programmers.co.kr/learn/courses/30/lessons/299307)
+- [[대장균의 크기에 따라 분류하기 1]](https://school.programmers.co.kr/learn/courses/30/lessons/299307)
   <br>
 
 ---
